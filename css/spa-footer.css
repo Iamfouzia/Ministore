@@ -1,0 +1,143 @@
+footer{
+    padding: 20px 100px;
+}
+.footer-section1{
+    width: 24%;
+    font-size: larger;
+    color: #d0cbca;
+    display: inline-block;
+}
+.socials {
+    margin-top: 30px;
+    
+}
+.socials a {
+color: #d0cbca;
+margin-top: 10px;
+margin-left: 20px;
+text-decoration: none;
+
+}
+.footer-section2{
+    display: inline-block;
+    width: 19%;
+    font-size: larger;
+    color: #d0cbca;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.footer-section2 h4{
+    margin-bottom: 20px;
+    font-size: larger;
+    color: rgb(15, 15, 15);
+    font-weight: 100;
+}
+.footer-section2 ul li{
+    list-style: none;
+    line-height: 30px;
+    color: rgb(15, 15, 15);
+}
+.footer-section2 ul li a{
+    color: rgb(78, 72, 72);
+    font-size: 14px;
+    font-weight: 200;
+}
+
+
+
+.footer-section3{
+    display: inline-block;
+    width: 30%;
+    font-size: larger;
+    color: #d0cbca;
+    vertical-align: top;
+}
+.footer-section3 h4{
+    margin-bottom: 20px;
+    font-size: larger;
+    color: rgb(15, 15, 15);
+    font-weight: 100;
+}
+.footer-section3 ul li{
+    list-style: none;
+    line-height: 30px;
+    color: rgb(15, 15, 15);
+}
+.footer-section3 ul li a{
+    color: rgb(78, 72, 72);
+    font-size: 14px;
+}
+
+
+
+
+.footer-section4{
+    display: inline-block;
+    width: 24%;
+    font-size: larger;
+    color: #d0cbca;
+    vertical-align: top;
+}
+.footer-section4 h4{
+    margin-bottom: 20px;
+    font-size: larger;
+    color: rgb(15, 15, 15);
+    font-weight: 100;
+}
+.footer-section4 p{
+ color: #d0cbca;
+}
+.footer-section4 p a{
+    color: rgb(78, 72, 72);
+    font-size: large;
+}
+
+.r2-sec1{
+    width: 32%;
+ vertical-align: top;
+    display: inline-block;
+}
+.r2-sec2{
+    width: 30%;
+    display: inline-block;
+}
+.r2-sec3{
+    width: 35%;
+    display: inline-block;
+    vertical-align: bottom;
+
+    padding-top: 20px;
+}
+.r2-sec1,.r2-sec2 p{
+    font-size: 20px;
+    color: #d0cbca;
+   
+
+}
+.r2-sec1,.r2-sec2 p img{
+    vertical-align: middle;
+
+}
+
+.r2-sec1 p{
+    font-size: 20px;
+    color: #d0cbca;
+  
+
+}
+.r2-sec1 p img{
+    vertical-align: middle;
+
+}
+
+.r2-sec3 p{
+    font-size: 20px;
+    color: #d0cbca;
+    
+
+}
+
+
+
+
+

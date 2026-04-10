@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+a{
+    text-decoration: none;
+}
+header{
+    padding: 20px 30px;
+    padding-right: 10px;
+    background-color: #ebeff1;
+  
+}
+.logo{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+.navs{
+    width: 57%;
+    display: inline-block;
+    vertical-align: top;
+ 
+}
+.navs ul li{
+    display: inline-block;
+    margin-top: 20px;
+}
+.icons{
+    width: 10%;
+    display: inline-block;
+}
+.icons ul li{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.navs ul li a{
+    text-decoration: none;
+    margin-left: 25px;
+    color: #767783;
+    
+}
+.icons ul li a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: #b3b5cb;
+    
+}
+main{
+    padding: 20px 100px;
+}
+.insta{
+   
+    margin-bottom: 25px;
+    text-align: center;
+}
+.insta h1{
+    font-size:xx-large;
+    margin-bottom: 15px;
+}
+.insta img{
+    width: 19.5%;
+}
+
+.subscribe{
+    padding: 50px 60px;
+    width: 100%;
+    background-color: #212529;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+.subscribe .sub-left{
+    width: 50%;
+    display: inline-block;
+   color: #dde1e6;
+  
+}
+
+.subscribe .sub-left h1{
+   font-size: 30px;
+  
+}
+.subscribe .sub-left p{
+    font-size: 20px;
+   
+ }
+.subscribe .sub-right{
+    width: 48%;
+    display: inline-block;
+    background-color: #72aec8;
+    vertical-align: top;
+    
+    
+}
+.subscribe .sub-right input,button{
+    padding: 14px;
+    width: 59%;
+    
+}
+.subscribe .sub-right button{
+    margin-left: -6px;
+    width: 34.2%;
+    background-color: #72aec8;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.subscribe .sub-right button:hover{
+    background-color: #212529;
+    
+}
